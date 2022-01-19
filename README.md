@@ -49,3 +49,6 @@ Task
 
 **Summary**
 With Azure QnA Maker, Azure QnA Maker and Azure Storage Static web hosting, we have configured a chatbot service which has capability to answer covid-19 related questions.
+
+
+"** plz note:As my azure subscription is finished so i have deployed the site on github pages and it is not working cuz the azure sucription has ended**"
